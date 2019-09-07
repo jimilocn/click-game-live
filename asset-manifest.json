@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/click-game-live/./static/css/main.6740259e.chunk.css",
+    "main.js": "/click-game-live/./static/js/main.68437253.chunk.js",
+    "main.js.map": "/click-game-live/./static/js/main.68437253.chunk.js.map",
+    "runtime~main.js": "/click-game-live/./static/js/runtime~main.93be06d3.js",
+    "runtime~main.js.map": "/click-game-live/./static/js/runtime~main.93be06d3.js.map",
+    "static/js/2.5f124323.chunk.js": "/click-game-live/./static/js/2.5f124323.chunk.js",
+    "static/js/2.5f124323.chunk.js.map": "/click-game-live/./static/js/2.5f124323.chunk.js.map",
+    "index.html": "/click-game-live/./index.html",
+    "precache-manifest.e9d0aab844b5e5eb688c15f8b2f984d1.js": "/click-game-live/./precache-manifest.e9d0aab844b5e5eb688c15f8b2f984d1.js",
+    "service-worker.js": "/click-game-live/./service-worker.js",
+    "static/css/main.6740259e.chunk.css.map": "/click-game-live/./static/css/main.6740259e.chunk.css.map"
+  }
+}
